@@ -18,4 +18,19 @@ These instructions will get the VisualCalculator up and running on your local ma
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [URL of your repository]
+   git clone [[URL of your repository](https://github.com/mvxconrad/VisualCalculator)https://github.com/mvxconrad/VisualCalculator]
+
+# Usage
+Utilize the on-screen buttons or keyboard for performing calculations.
+Press 'C' to clear the current input, or use the backspace key for corrections.
+The interface’s dynamic colors add a fun aspect to your calculation experience.
+
+# Contributing
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Acknowledgments
+Inspiration from classic digital calculators.
+Java Swing library for GUI components.
