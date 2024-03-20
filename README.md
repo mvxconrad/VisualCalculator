@@ -18,7 +18,7 @@ These instructions will get the VisualCalculator up and running on your local ma
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [[URL of your repository](https://github.com/mvxconrad/VisualCalculator)https://github.com/mvxconrad/VisualCalculator]
+   git clone [https://github.com/mvxconrad/VisualCalculator]
 
 # Usage
 Utilize the on-screen buttons or keyboard for performing calculations.
