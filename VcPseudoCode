@@ -1,0 +1,37 @@
+//Create frame (400 x 300) with title "Visual Calculator"
+		//Set frame to close on exit
+		
+		
+		
+		
+		//Create layout for calculator (GridBag, Border. Flow, Grid, Box, etc.)
+		
+		//Create Buttons (Manual)
+		//Numbers = 0 - 9 (10 buttons)
+		//Operators = +, -, *, /, = (5 buttons)
+		//Clear, Backspace (2 buttons)
+		//Decimal (1 button)
+		//Positive/Negative (1 button)
+		
+		//GUI Display
+		//TextField (Display)
+		
+		//Methods for operators
+		//Add
+		//Subtract
+		//Multiply
+		//Divide
+		//Equals
+		//Clear
+		//Backspace
+		//Decimal
+		//Positive/Negative
+		//Number (0 - 9)
+		
+		//ActionListeners for buttons
+		
+		//Error handling for division by zero
+		//Error handling for invalid input
+		//Error handling for overflow
+		//Error handling for underflow
+		//Error handling for invalid operator
